@@ -1,4 +1,4 @@
-/*Learning GIT HUB is easy*/
+/*Learning GIT HUB is easy with Vikrant*/
 Proc print data=Admin;
 run;
 Data Admin;
